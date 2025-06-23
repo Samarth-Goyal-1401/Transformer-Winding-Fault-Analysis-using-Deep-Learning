@@ -1,1 +1,3 @@
 # Transformer-Winding-Fault-Analysis-using-Deep-Learning
+
+This project implements a Deep Learning framework for Power Transformer Fault Diagnosis using Sweep Frequency Response Analysis (SFRA) data. It involves a comprehensive pipeline for processing raw SFRA measurements into a structured dataset, followed by the development and evaluation of advanced neural network models. The core approach utilizes a Fully Convolutional Network (FCN) for direct analysis of sequential SFRA data, while also exploring the adaptation of ResNet and Xception architectures for image-based representations. The goal is to accurately classify various transformer fault types, providing a robust, automated diagnostic tool.
